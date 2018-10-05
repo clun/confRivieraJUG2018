@@ -1,6 +1,9 @@
-Riviera JUG : Support de presentations et exemple de code
+#Riviera JUG
+
+Soiree du 4 octobre 2018
 
 ### FF4j
+====
 
 Les Slides sont dispos sur [Slide_Share](https://www.slideshare.net/CdrickLunven/riviera-jug-ff4j) 
 
@@ -15,7 +18,7 @@ mvn spring-boot:run
 ```
 
 ### API Cassandra
-
+====
 
 Les Slides sont dispos sur [Slide_Share](https://www.slideshare.net/CdrickLunven/riviera-jug-apicassandra)
 
